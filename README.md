@@ -31,11 +31,6 @@ Include a few screenshots showcasing the user interface and key features of your
 ![Screenshot 8] = ![Screenshot_2023-06-24-01-28-11-44_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/cf8c97ea-3434-4593-8a55-09bb602a101b)
 ![Screenshot 8] = ![Screenshot_2023-06-24-01-50-05-81_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/ce798959-83e5-4860-9d9a-f854ebd69727)
 
-## Installation
-1. Clone the repository: `git clone https://github.com/your-username/music-player-app.git`
-2. Open the project in Android Studio.
-3. Build and run the app on your Android device or emulator.
-
 ## Usage
 1. Launch the app and grant the necessary permissions to access media files on your device.
 2. The app will scan the device's storage to populate the music library.
