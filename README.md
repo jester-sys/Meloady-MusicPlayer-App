@@ -1,7 +1,7 @@
 # Music Player Android App
 
 ## Overview
-The Music Player Android App is a fully-featured application that allows users to enjoy their music collection on Android devices. It incorporates various components such as cursor, notifications, services, AudioManager.OnAudioFocusChangeListener, BroadcastReceiver, and MediaPlayer to deliver a seamless and immersive music playback experience.
+The Music Player Android App is a feature-rich application designed to provide a seamless and immersive music playback experience on Android devices. It offers a wide range of functionalities and customization options, catering to music enthusiasts who want to enjoy their favorite songs with enhanced control and visual appeal.
 
 ## Key Features
 - Browse and play audio files from the device's storage using a cursor-based approach.
