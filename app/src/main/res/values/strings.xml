@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Melody</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_songs">All Songs :</string>
+    <string name="search_here">Search Here ....</string>
+    <string name="playlistName">Enter The PlayList Name</string>
+    <string name="playlist_delete">Playlist Delete</string>
+    <string name="playlist_name">PlayList Name</string>
+    <string name="back_btn">Back</string>
+    <string name="playlist">PlayList</string>
+    <string name="playlistimage">PlayListImage</string>
+    <string name="add_song">Add Song</string>
+    <string name="remove_all">Remove All</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="favorite_song">favorite_song</string>
+    <string name="title_activity_navigation_drwaer">NavigationDrwaer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="feedback">Feedback</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="Topic">Topic i.e Suggestion Error.etc.</string>
+    <string name="Email_Address">Email Address (Optional)</string>
+    <string name="song_name">Song Name</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="min_15">15 Minutes</string>
+    <string name="min_30">30 Minutes</string>
+    <string name="min_60">60 Minutes</string>
+
+
+    <string name="TermAndCondion">
+            Acceptance of Terms: By downloading and using this music player app, you agree to these terms and conditions. If you do not agree with any of these terms, you should immediately stop using the app.
+
+    Use of the App: This music player app is for personal use only. You may not use it for any commercial purposes or distribute it in any way without our express written consent.
+
+    User Content: You may use the app to upload and share your own content, such as music files,
+        playlists, and comments. By doing so, you grant us a non-exclusive, royalty-free, perpetual, and worldwide license to use, copy, distribute, and modify your content for the purpose of operating and improving the app.
+
+    Copyright: The app and all of its content, including but not limited to music files, artwork, and design elements, are the property of the app developer and/or
+        its licensors and are protected by copyright and other intellectual property laws. You may not reproduce, modify, or distribute any of the content without our express written consent.
+
+    User Conduct: You agree not to use the app for any unlawful or harmful purposes, including
+        but not limited to infringing on the rights of others, spreading viruses or other harmful code, or engaging in any form of harassment or hate speech.
+
+    Disclaimer of Warranties: The app is provided "as is" and without any warranties, express or
+        implied. We do not guarantee that the app will be error-free or uninterrupted, or that it will meet your specific needs or expectations.
+
+    Limitation of Liability: We are not liable for any damages or losses that may arise from your use of
+        the app, including but not limited to direct, indirect, incidental, special, or consequential damages. This includes any loss of data or damage to your device that may result from your use of the app.
+
+    Termination: We reserve the right to terminate your access to the app at any time, for any reason or no reason, without notice or liability.
+
+    Changes to the Terms: We may update these terms and conditions at any time. Your continued use of the app after any changes have been made constitutes your acceptance of the updated terms.
+
+    Governing Law: These terms and conditions are governed by and construed in accordance with the
+        laws of [insert state/country]. Any disputes arising from or related to these terms shall be resolved exclusively in the courts of [insert state/country].
+    </string>
+    <string name="about_disc">I. Introduction Briefly introduce the app and its purpose (e.g. a music
+        player for playing and organizing local music files) Explain why someone might want to
+        use the app (e.g. to easily access and enjoy their music library on their device)
+        Give an overview of the app\'s features and capabilities
+
+        II. Features Detail the app\'s main features (e.g. playing music,
+        creating playlists, searching for songs) Explain how each feature works and what it offers to the user
+
+        III. User Interface Describe the app\'s user interface and how
+        it is organized Highlight any unique design elements or features that make the app stand out
+
+        IV. Technical Details Explain how the app works under the hood (e.g. what programming
+        languages or frameworks were used) Discuss any
+        technical challenges that were encountered during development and how they were overcome
+
+        V. Future Development Mention any plans for future development or updates to the app
+        Ask for user feedback or suggestions for improvements to the app
+
+        VI. Conclusion Summarize the app\'s main features and benefits to the user Encourage
+        the user to download and try out the app for themselves.</string>
+    <string name="_00_00">00:00</string>
+    <string name="ForName">Enter The Name</string>
+    <string name="caption">Life is a song, love is the music.!!</string>
+    <string name="appname">Melody Music</string>
+    <string name="your_ultimate_music_companion">Your Ultimate Music Companion</string>
+    <string name="enter_the_name">Enter The Name</string>
+    <string name="play_next">Play Next</string>
+    <string name="play_next_note">Play Next Note</string>
+    <string name="melody">Melody</string>
+    <string name="meloady">Meloady</string>
+
+
+</resources>

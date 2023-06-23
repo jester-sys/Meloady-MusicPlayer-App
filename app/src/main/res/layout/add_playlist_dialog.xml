@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:boxStrokeColor="@color/RED"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="10dp"
+        app:startIconDrawable="@drawable/baseline_supervisor_account_24"
+        app:startIconTint="@color/RED"
+        android:hint="@string/playlist_name"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/playlistName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:singleLine="true"
+            android:inputType="text"
+            android:maxLength="40"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:boxStrokeColor="@color/RED"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="10dp"
+        app:startIconDrawable="@drawable/baseline_playlist_add_24"
+        app:startIconTint="@color/RED"
+        android:hint="@string/enter_the_name"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/yourName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:singleLine="true"
+            android:inputType="text"
+            android:maxLength="40"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

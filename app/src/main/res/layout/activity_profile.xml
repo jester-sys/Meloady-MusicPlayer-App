@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".User.ProfileActivity">
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/SongImg"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:src="@drawable/icon_music"
+        android:layout_marginTop="50dp"
+        app:layout_constraintBottom_toTopOf="@+id/songNameMV"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.571"
+        app:shapeAppearanceOverlay="@style/curved" />
+
+    <TextView
+        android:id="@+id/ProfileName"
+        android:layout_marginTop="30dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_marginEnd="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_gravity="center"
+       android:padding="10dp"
+        android:background="@drawable/profile_name_desgin"
+        android:layout_height="50dp"
+        android:text="Kanhaiya Yadav " />
+
+
+    <TextView
+        android:id="@+id/FeedbackAccount"
+        android:layout_marginTop="50dp"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginEnd="10dp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_marginStart="20dp"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"
+        android:text="Feedback"
+        app:drawableEndCompat="@drawable/baseline_navigate_next_24"
+        app:drawableStartCompat="@drawable/baseline_feedback_24" />
+    <TextView
+        android:id="@+id/AboutAccount"
+        android:layout_marginTop="30dp"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginEnd="10dp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_marginStart="20dp"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"
+
+        app:drawableEndCompat="@drawable/baseline_navigate_next_24"
+        android:drawableStart="@drawable/baseline_info_24"
+        android:text="About" />
+    <TextView
+        android:id="@+id/Settings"
+        android:layout_marginTop="30dp"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginEnd="10dp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_marginStart="20dp"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        app:drawableEndCompat="@drawable/baseline_navigate_next_24"
+        app:drawableStartCompat="@drawable/baseline_settings_24" />
+
+    <TextView
+        android:id="@+id/Logout"
+        android:layout_marginTop="30dp"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginEnd="10dp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_marginStart="20dp"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"
+        android:text="LogOut"
+        app:drawableStartCompat="@drawable/baseline_logout_24"
+        app:drawableEndCompat="@drawable/baseline_navigate_next_24" />
+
+
+
+
+
+</LinearLayout>

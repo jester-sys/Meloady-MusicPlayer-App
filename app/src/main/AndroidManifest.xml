@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission
+        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:name=".CustomClass.ApplicationClass"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:supportsRtl="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".ActivityUI.selectionActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Melody.NoActionBar" />
+        <activity
+            android:name=".ActivityUI.PlaylistDetailsActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Melody.NoActionBar" />
+        <activity
+            android:name=".User.SplashScreenActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/MeloadyNoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".User.LoginActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/MeloadyNoActionBar" />
+        <activity
+            android:name=".User.TermAndCondionActivity"
+            android:exported="false"
+            android:parentActivityName=".User.SettingsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Melody" />
+        <activity
+            android:name=".User.ProfileActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Melody" />
+        <activity
+            android:name=".User.SettingsActivity"
+            android:exported="false"
+            android:parentActivityName=".User.ProfileActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Melody" />
+        <activity
+            android:name=".User.AboutActivity"
+            android:exported="false"
+            android:parentActivityName=".User.ProfileActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Melody" />
+        <activity
+            android:name=".User.FeedbackActivity"
+            android:exported="false"
+            android:parentActivityName=".User.ProfileActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Melody" />
+        <activity
+            android:name=".ActivityUI.PlaySongActivity"
+            android:configChanges="uiMode"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:noHistory="true"
+            android:theme="@style/MeloadyNoActionBar"
+            android:screenOrientation="portrait"
+            tools:ignore="AppLinkUrlError,LockedOrientationActivity">
+
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/MeloadyNoActionBar" />
+        <service android:name=".CustomClass.MusicService" />
+
+        <receiver
+            android:name=".CustomClass.NotificationReceiver"
+            android:enabled="true" />
+    </application>
+
+</manifest>

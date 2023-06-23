@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Melody" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/RED</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">#FF0000</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/RED</item>
+        <item name="colorSecondaryVariant">#FF1908</item>
+        <item name="colorOnSecondary">@color/RED</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="MeloadyNoActionBar" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryVariant">#F72010</item>
+        <item name="colorOnPrimary">#5D5959</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#D2D2D2</item>
+        <item name="colorSecondaryVariant">#17FFFFFF</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Melody.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Melody.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Melody.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>
