@@ -15,8 +15,22 @@ The Music Player Android App is a fully-featured application that allows users t
 
 ## Screenshots
 Include a few screenshots showcasing the user interface and key features of your app. For example:
-![Screenshot 1](![Screenshot_2023-06-24-01-21-11-71_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/1e595d97-038a-45eb-8202-265158beee08))
-![Screenshot 2](![Screenshot_2023-06-24-01-25-42-89_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/b883bbf7-a19d-451c-99ad-6ccd048e0e2e)
+![Screenshot 1] =  ![Screenshot_2023-06-24-01-21-11-71_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/923f8979-c5d3-4200-b38d-fde8254766c5)
+![Screenshot 2] = (![Screenshot_2023-06-24-01-25-42-89_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/b883bbf7-a19d-451c-99ad-6ccd048e0e2e)
+![Screenshot 3] = ![Screenshot_2023-06-24-01-26-39-55_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/f668845c-204c-44f1-9842-6b7785f833b5)
+![Screenshot 4] = ![Screenshot_2023-06-24-01-27-19-69_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/349ab57c-37d4-47a6-b060-c3a2389d9e39)
+![Screenshot 5] = ![Screenshot_2023-06-24-01-27-33-75_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/bd230815-c281-4e56-a009-506ea35ea2e9)
+![Screenshot 6] = ![Screenshot_2023-06-24-01-27-50-33_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/932e735c-f38f-4a30-a6e3-af68123520d1)
+![Screenshot 7] = ![Screenshot_2023-06-24-01-28-04-95_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/8627664c-daa1-43ff-951f-e7ca78b72f52)
+![Screenshot 8] = ![Screenshot_2023-06-24-01-28-11-44_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/cf8c97ea-3434-4593-8a55-09bb602a101b)
+![Screenshot 8] = ![Screenshot_2023-06-24-01-50-05-81_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/ce798959-83e5-4860-9d9a-f854ebd69727)
+
+
+
+
+
+
+
 
 
 
