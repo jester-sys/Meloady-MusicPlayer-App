@@ -12,6 +12,12 @@ The Music Player Android App is a fully-featured application that allows users t
 - Show interactive notifications with playback controls for easy access to music controls from the notification shade.
 - Utilize a BroadcastReceiver to receive system events and custom intents related to music playback, enabling integration with system media controls and external apps.
 - Utilize the powerful MediaPlayer class to handle audio playback, including volume control, audio effects, and seeking.
+- Favorite songs: Mark your favorite songs for quick and easy access to your preferred tracks.
+- Create and add playlists: Organize your music by creating and adding songs to custom playlists.
+- Sleep timer: Set a timer to automatically stop playback after a specific duration, allowing you to fall asleep while listening to music.
+- Decent UI with new material widgets: Enjoy a modern and intuitive user interface designed with the latest Material Design widgets.
+- Built-in system equalizer: Access a built-in equalizer to customize the audio settings and optimize the sound according to your preferences.
+- Custom color gradient: Each song's image is analyzed, and a custom color gradient is generated to provide a visually immersive experience.
 
 ## Screenshots
 Include a few screenshots showcasing the user interface and key features of your app. For example:
@@ -42,8 +48,5 @@ Include a few screenshots showcasing the user interface and key features of your
 ## Contributing
 Contributions to the Music Player Android App project are welcome! If you have any ideas, bug fixes, or new features to propose, please submit an issue or create a pull request following the contribution guidelines provided in the repository.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For any inquiries or questions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com). You can also visit my website at [your-website.com](https://your-website.com).
+For any inquiries or questions, feel free to contact me at kanhaiyayadav7221@gmail.com.
