@@ -21,8 +21,10 @@ The Music Player Android App is a feature-rich application designed to provide a
 
 ## Screenshots
 Include a few screenshots showcasing the user interface and key features of your app. For example:
-<img src="https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/923f8979-c5d3-4200-b38d-fde8254766c5" width="200" height="400">
 
+
+
+<img src="https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/923f8979-c5d3-4200-b38d-fde8254766c5" width="200" height="400">
 <img src="https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/b883bbf7-a19d-451c-99ad-6ccd048e0e2e" width="200" height="400">
 
 <img src="https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/f668845c-204c-44f1-9842-6b7785f833b5" width="200" height="400">
