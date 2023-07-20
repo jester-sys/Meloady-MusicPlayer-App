@@ -30,8 +30,7 @@ Include a few screenshots showcasing the user interface and key features of your
 ![Screenshot 7] = ![Screenshot_2023-06-24-01-28-04-95_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/8627664c-daa1-43ff-951f-e7ca78b72f52)
 ![Screenshot 8] = ![Screenshot_2023-06-24-01-28-11-44_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/cf8c97ea-3434-4593-8a55-09bb602a101b)
 
-
-<img src="](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/ce798959-83e5-4860-9d9a-f854ebd69727" width="200" height="400" />
+<img src="]( ![Screenshot_2023-06-24-01-50-05-81_ef5a52f4efbf0aefad67f439c8826c48](https://github.com/jester-sys/Meloady-MusicPlayer-App/assets/115554090/ce798959-83e5-4860-9d9a-f854ebd69727)" width="200" height="400" />
 
 ## Usage
 1. Launch the app and grant the necessary permissions to access media files on your device.
